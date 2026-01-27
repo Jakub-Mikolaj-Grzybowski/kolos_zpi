@@ -7,7 +7,7 @@ npm install -g @angular/cli@19
 
 ng new Ang1 --minimal=true --standalone=false  
 
-ng g c student-item // nowy komponent
+ng g c "nazwa" // nowy komponent
 
 npm install react@19.2.0 react-dom@19.2.0  
 
